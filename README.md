@@ -1,2 +1,2 @@
-# bearded-computing-machine
-A take on Telesc.pe written in PHP (to be renamed)
+# Wire PHP
+A take on Telesc.pe written in PHP
